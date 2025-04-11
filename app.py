@@ -71,7 +71,7 @@ st.markdown("""
             
 <div class="footer">
     <div style="display: flex; justify-content: space-evenly; align-items: center;">
-        <div style="font-size: 14px;">Developed byNetcreators Automation</div>
+        <div style="font-size: 14px;">Developed by Netcreators Automation</div>
         
     
 </div>
